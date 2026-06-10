@@ -9,7 +9,7 @@
   "todos": [
     {
       "text": "Upload Release V1.1.0",
-      "done": false
+      "done": true
     }
   ],
   "changelog": []
