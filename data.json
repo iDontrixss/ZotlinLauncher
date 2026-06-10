@@ -6,6 +6,11 @@
       "updatedAt": "10 de jun de 2026"
     }
   ],
-  "todos": [],
+  "todos": [
+    {
+      "text": "Upload Release V1.1.0",
+      "done": false
+    }
+  ],
   "changelog": []
 }
